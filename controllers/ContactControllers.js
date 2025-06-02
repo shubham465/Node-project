@@ -8,7 +8,7 @@ const GetContact = asyncHandler(async (req, res) => {
         res.status(200).json(contacts)
     }).catch((err)=> {
         res.status(400)
-        throw new Error("No contacts")
+        throw new Error("No contacts")  
     })
 })
 

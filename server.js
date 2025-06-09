@@ -8,7 +8,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 connectDb()
-app.use(cors()); 
+app.use(cors());
 app.use(express.json());
 app.use('/api/todos', require('./Routes/todoRoutes'))
 app.use('/api/user', require('./Routes/userRoutes'))

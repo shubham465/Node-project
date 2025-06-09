@@ -19,10 +19,8 @@
 
 ## Tech Stack
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Frontend:** (Add your frontend framework here, e.g., React, Vue, etc.)
 - **Authentication:** JWT (JSON Web Token)
 - **Deployment:** Vercel (Serverless Functions)
 
 ---
-Update the frontend tech stack if you are using a specific framework.
-
+Thanks : )

@@ -1,8 +1,14 @@
-# How to run the backend
+# How to run the Project
 
 Do run the following command: 
- cd Backend ( If you are not inside Backend folder )
+ cd Backend
+ npm install
  npm run dev
+ This will run the server or backend.
 
-After you run the above command, it will start the server.
-If it gives error, provide your IP Address to me to get access to mongodob.
+Now, to run the frontend, do the following :
+ cd Frontend
+ npm install
+ npm run dev
+ This will start the frontend
+

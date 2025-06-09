@@ -18,5 +18,3 @@ app.use(ErrorHandler)
 app.listen(port, ()=> {
     console.log(`App is running on port : ${port}`)
 })
-
-module.exports = app;
